@@ -1,3 +1,5 @@
 java.lang
 net.openhft.affinity
 net.openhft.affinity.impl
+software.chronicle.enterprise.internals.impl
+sun.hotspot.parser
