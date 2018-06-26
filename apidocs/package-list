@@ -1,6 +1,7 @@
 java.lang
 net.openhft.affinity
 net.openhft.affinity.impl
+net.openhft.affinity.lockchecker
 net.openhft.ticker
 net.openhft.ticker.impl
 software.chronicle.enterprise.internals.impl
