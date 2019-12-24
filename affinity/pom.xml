@@ -25,7 +25,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>affinity</artifactId>
-    <version>3.1.12-SNAPSHOT</version>
+    <version>3.2.3-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>OpenHFT/Java-Thread-Affinity/affinity</name>
@@ -42,7 +42,7 @@
                 <groupId>net.openhft</groupId>
                 <artifactId>third-party-bom</artifactId>
                 <type>pom</type>
-                <version>3.6.9</version>
+                <version>3.6.15</version>
                 <scope>import</scope>
             </dependency>
         </dependencies>
